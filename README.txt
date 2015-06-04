@@ -9,6 +9,7 @@ A series of small challenges offered by the /r/DailyProgrammer subreddit. Organi
 History Logs
 ------------
 
+* June 4th, 2015 - Space Code Breaking completed [Silver] [Issue Date: 2015/03/02]
 * June 3rd, 2015 - Space Code Breaking attempt [Silver] [Issue Date: 2015/03/02]
 	+ Decode functionality complete
 	- Have yet to finish validation code
