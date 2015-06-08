@@ -8,17 +8,13 @@ function pNumbers(n) {
         rn = parseInt(n.toString().split("").reverse().join(""));
         
         if (n === rn)
-            break;
+            return n;
         else
             n += rn;
-        
-        s++;
     }
 
-    if (s === 10000)
-        return "Lychrel";
-    else
-        return n;
+
+    return "Lychrel";
 }
 
 var sweetHash = {};

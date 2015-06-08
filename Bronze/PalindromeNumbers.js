@@ -16,18 +16,13 @@ function pNumbers(n) {
         if (n === rn)
         {
             document.write(on + " gets palindromic after " + s + " steps: " + n + "<br>");
-            break;
+            return;
         }
         else
             n += rn;
-        
-        s++;
     }
 
-    if (s === 10000)
-        document.write(on + " is a Lychrel Number <br>");
-    else
-        return n;
+    document.write(on + " is a Lychrel Number <br>");
 }
 
 for(var l = 0; l < 1000; l++)
