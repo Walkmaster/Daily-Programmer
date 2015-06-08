@@ -9,9 +9,10 @@ A series of small challenges offered by the /r/DailyProgrammer subreddit. Organi
 History Logs
 ------------
 
-* June 4th, 2015 - Space Code Breaking completed [Silver] [Issue Date: 2015/03/02]
-* June 3rd, 2015 - Space Code Breaking attempt [Silver] [Issue Date: 2015/03/02]
+* June 8th, 2015 - Palindrome Numbers completed [Bronze] [Issue Date: 2015/06/08]
+* June 4th, 2015 - Space Code Breaking completed [Silver] [Issue Date: 2015/06/03]
+* June 3rd, 2015 - Space Code Breaking attempt [Silver] [Issue Date: 2015/06/03]
 	+ Decode functionality complete
 	- Have yet to finish validation code
 * June 2nd, 2015 - Lumberjack Pile Problem completed [Bronze] [Issue Date: 2015/06/01]
-* May 31st, 2015 - Hyper Binary Challenge completed [Silver] [Issue Date: 2015/03/02]
+* May 31st, 2015 - Hyper Binary Challenge completed [Silver] [Issue Date: 2015/05/02]
